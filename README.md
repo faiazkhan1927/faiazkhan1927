@@ -30,5 +30,9 @@ I am currently completing my MSc in Computer Science and Engineering, with resea
 
 Research focuses on evaluating machine-learning-based IDS models across automotive CAN/IoV datasets, examining predictive performance, model stability, and SHAP explanation consistency.
 
+## Research & Publications
+
+- **A Dual-Lens Evaluation of Machine-Learning-Based IoV/CAN Intrusion Detection: Predictive Performance and Explanation Stability** — **IEEE ICCIT 2026**. Accepted for oral presentation.
+
 ### 📫 Connect
 - GitHub: https://github.com/faiazkhan1927
